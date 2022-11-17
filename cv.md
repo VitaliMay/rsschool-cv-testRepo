@@ -1,10 +1,3 @@
-# testRepo
-# testRepo!
-# testRepo!!
-# testRepo!!! feature
-
-----
-
 # Vitali Majewski
 
 ### Contact information:
@@ -20,21 +13,11 @@ I am an excellent team worker
 
 ----
 ### Skills
-- HTML
-* HTML
-- JavaScript Basics (*try to learn* :)
-* JavaScript Basics (*try to learn* :)
+HTML
 
 ----
 ### Code example:
-I don't have it yet :)<br>
-
-```javascript
-function disemvowel(str) {
-    return str.replace(/[^aeiou]/gi,'').length;
-  }
-
-```
+I don't have it yet :)
 
 -----
 ### Languages:
