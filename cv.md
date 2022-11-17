@@ -19,8 +19,9 @@ I am an excellent team worker
 
 ----
 ### Code example:
-[**Bingo Card KATA from CODEWARS:**](https://www.codewars.com/kata/bingo-card)
-*I don't have it yet :)*
+[**Bingo Card KATA from CODEWARS:**](https://www.codewars.com/kata/bingo-card)![](https://www.codewars.com/packs/assets/logo.61192cf7.svg)<br>
+*I don't have it yet :)*<br>
+*And my first recursion*<br>
 
 ```javascript
 
