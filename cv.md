@@ -19,7 +19,7 @@ I am an excellent team worker
 
 ----
 ### Code example:
-[**Bingo Card KATA from CODEWARS**](https://www.codewars.com/kata/bingo-card)![](/assets/svg/codewars_button_icon_151901.png)<br>
+[**Bingo Card KATA from CODEWARS**](https://www.codewars.com/kata/bingo-card)  ![logo](./assets/svg/codewars_button_icon_151901.png)<br>
 *And my first recursion :)*<br>
 
 ```javascript
