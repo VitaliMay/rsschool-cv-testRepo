@@ -13,11 +13,19 @@ I am an excellent team worker
 
 ----
 ### Skills
-HTML
+* HTML (in progress)<br>
+* CSS (in progress)<br>
+* JavaScript (in progress)<br>
 
 ----
 ### Code example:
 I don't have it yet :)
+
+```javascript
+
+console.log('Hello World')
+
+```
 
 -----
 ### Languages:
