@@ -19,8 +19,9 @@ I am an excellent team worker
 
 ----
 ### Code example:
-<<<<<<< HEAD
-[**Bingo Card KATA from CODEWARS**](https://www.codewars.com/kata/bingo-card)  ![logo](./assets/svg/codewars_button_icon_151901.png)<br>
+
+[**Bingo Card KATA from CODEWARS**](https://www.codewars.com/kata/bingo-card)<br>
+[![logo](/assets/svg/codewars_button_icon_151901.png)](https://www.codewars.com/kata/bingo-card)<br>
 
 *And my first recursion :)*<br>
 
