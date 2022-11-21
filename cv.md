@@ -1,21 +1,21 @@
-# Vitali Majewski
+# Vitali Majewski 
 
 ### Contact information:
-**Phone:** +375 29 6-906-306  
-**E-mail:** mvt30@mail.ru  
-**GitHub:** VitaliMay
+:phone: **Phone:** +375 29 6-906-306  :telephone_receiver:  
+:envelope: **E-mail:** mvt30@mail.ru  
+:octocat: **GitHub:** VitaliMay
 
 ----
 
-### About Me
+### About Me :dog:
 I am an excellent team worker  
 
 
 ----
-### Skills
-* HTML (in progress)<br>
-* CSS (in progress)<br>
-* JavaScript (in progress)<br>
+### Skills 📈 :chart_with_upwards_trend:
+* HTML (in progress) <br>
+* CSS (in progress)  <br>
+* JavaScript (in progress) <br>
 
 ----
 ### Code example:
@@ -44,10 +44,10 @@ function getCard() {
 
 -----
 ### Languages:
-* English - (A2) Pre-Intermediate
-* Russian - Native
-* Polish - Basic
-* Ukrainian - Basic
+* :us: English - (A2) Pre-Intermediate
+* :ru: Russian - Native
+* :poland: Polish - Basic
+* :ukraine: Ukrainian - Basic
 
 -----
 - [x] #739
