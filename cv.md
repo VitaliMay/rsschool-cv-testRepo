@@ -1,4 +1,7 @@
-# Vitali Majewski 
+# Vitali Majewski
+### Junior Front-End Developer (Entry Level)
+
+----
 
 ### Contact information:
 :phone: **Phone:** +375 29 6-906-306  
