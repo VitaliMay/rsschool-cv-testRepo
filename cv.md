@@ -1,9 +1,9 @@
 # Vitali Majewski 
 
 ### Contact information:
-:phone: **Phone:** +375 29 6-906-306  :telephone_receiver:  
+:phone: **Phone:** +375 29 6-906-306  
 :envelope: **E-mail:** mvt30@mail.ru  
-:octocat: **GitHub:** VitaliMay
+:octocat: **GitHub:** [VitaliMay](https://github.com/VitaliMay)
 
 ----
 
@@ -12,10 +12,11 @@ I am an excellent team worker
 
 
 ----
-### Skills 📈 :chart_with_upwards_trend:
+### Skills  :chart_with_upwards_trend:
 * HTML (in progress) <br>
 * CSS (in progress)  <br>
 * JavaScript (in progress) <br>
+* Git, GitHub (in progress) <br>
 
 ----
 ### Code example:
