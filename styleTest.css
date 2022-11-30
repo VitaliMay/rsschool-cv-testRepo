@@ -1,0 +1,243 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+    @font-face {
+    font-family: 'Roboto';
+    src: url("./assets/fonts/Roboto-Regular.ttf");
+    font-weight: 400;
+  }
+
+  @font-face {
+    font-family: 'Roboto';
+    src: url("./assets/fonts/Roboto-Bold.ttf");
+    font-weight: 700;
+  }
+
+  @font-face {
+    font-family: 'Roboto';
+    src: url("./assets/fonts/Roboto-Italic.ttf");
+    font-weight: 500;
+  }
+
+  @media (max-width: 768px) {
+    .section {
+      width: 100%;
+    }
+  }
+
+ /* .main-container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .section {
+    width: 50%;
+  }*/
+
+/************************************************************************************/
+
+  body {
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-weight: 400;
+    /*color: #484848;*/
+    min-height: 100vh;
+    background-color: rgb(158, 158, 173);
+  }
+
+  :root {
+    --dark-gray: #505050;
+  }
+
+  .wrapper {
+    /*width: 80%;*/
+    /*max-width: 1440px;*/
+    max-width: 1050px; /*help with adaptiv*/
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    /*margin: 50px auto;*/
+    border: 1px solid black;
+  }
+
+  /* header {
+    border: solid 2px red;
+  } */
+
+  .menu {
+    display: flex;
+    /*justify-content: center;*/
+    justify-content: flex-end;
+    /*justify-content: flex-start;*/
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+   /* background-color: #484848;*/
+    background-color: var(--dark-gray);
+    /* border: solid 2px red; */
+    /* align-items: center; */
+    /* flex-direction: column; */
+    /* flex-direction: row; */
+    padding: 15px 25px;
+  }
+  /* .menu__list {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+ } */
+
+  .menu ul {
+    list-style: none;
+    display: flex;
+    /* flex-direction: row; */
+    flex-wrap: wrap;
+  }
+
+  .menu a {
+    /* flex-direction: row; */
+    /*margin: 0 5px;*/
+    margin: 0;
+    text-align: center;
+    align-items: center; /*vertical center*/
+    padding: 15px 25px;
+    /*width: 130px;*/
+    /*width: 12,5%;*/
+    /*max-width: 110px;*/
+    text-decoration: none;
+    color: #fff;
+    /*font: 12px Roboto;*/
+    font-size: 12px;
+    font-weight: 700;
+  }
+  .menu a:hover {
+    color: #484848;
+    background-color: #fff;
+  }
+
+  .main {
+    display: flex;
+  }
+
+  h2 {
+    font-weight: 500;
+  }
+
+  .sidebar {
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .contact {
+    margin: 10px 5px 10px 40px;
+  }
+
+  .contact li::marker {
+    color: red;
+  }
+
+  .languages {
+    margin: 10px 5px 10px 40px;
+  }
+
+  .languages li::marker {
+    color: red;
+  }
+
+  .projects-markdown-link {
+    text-decoration: none;
+  }
+
+  .projects-markdown-link:hover {
+    text-decoration: underline;
+  }
+
+  .codewars {
+    /* border: solid 2px red; */
+    padding: 10px 0px;
+  }
+
+  .codewars-link {
+    text-decoration: none;
+  }
+
+  .codewars-link:hover {
+    text-decoration: underline;
+  }
+
+  .icon-codewars {
+    transition: 0.3s;
+    opacity: 70%;
+  }
+
+  .icon-codewars:hover {
+    transform: scale(1);
+    opacity: 100%;
+  }
+
+  .content {
+    width: 60%;
+  }
+
+  .list {
+    margin: 10px;
+  }
+
+  pre {
+    white-space: pre-wrap;
+    /* overflow: auto; чтобы он мог прокручиваться. */
+    /* width: max-content; */
+  }
+
+  footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    font-size: 0.8rem;
+    color: #ffffff;
+    background-color: var(--dark-gray);
+  }
+
+  footer a {
+    text-decoration: none;
+    color: #ffffff;
+  }
+
+  footer .icon-github {
+    margin-right: 10px;
+  }
+
+  .github {
+    display: flex;
+    align-items: center;
+  }
+
+  .github :hover{
+    text-decoration: underline;
+  }
+
+  .footer-link {
+    transition: 0.3s;
+    opacity: 70%;
+  }
+
+  .footer-link:hover {
+    transform: scale(1.2);
+    opacity: 100%;
+  }
+
+  .photo {
+    height: auto;
+    width: 100%;
+    max-width: 400px;
+    border-radius: 10% 10% 25%;
+    border: 3px solid rgb(158, 158, 173)
+  }
