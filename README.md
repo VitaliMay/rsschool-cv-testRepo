@@ -1,7 +1,7 @@
 ----
 ### Markdown
 
-https://VitaliMay.github.io/testRepo/cvTest
+https://VitaliMay.github.io/testRepo/cv
 
 ----
 ### HTML - CSS

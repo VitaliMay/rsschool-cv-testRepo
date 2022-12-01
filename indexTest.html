@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CV</title>
     <link rel="stylesheet" href="styleTest.css">
-    <link rel="icon" href="./assets/svg/favicon.ico">
+    <link rel="icon" href="./assets/svg/GR_favicon.ico">
 </head>
 <body>
 	<div class="wrapper">
@@ -29,7 +29,7 @@
 					<ul>
 						<li>GitHub: VitaliMay</li>
 						<li>E-mail: mvt30@mail.ru</li>
-						<li>Phone: +375 29 6-906-306 </li>
+						<li>Phone: +375 29 6-906-306</li>
 					</ul>
 				</div>
 				<div class="languages">
@@ -57,13 +57,14 @@
 				<div id="skills" class="list">
 					<h3>Skills</h3>
 					<p>Markdown :)</p>
-					<p>HTML :)</p>
-					<p>CSS :)</p>
+					<p>HTML   :)</p>
+					<p>CSS  :)</p>
+					<p>JS :)</p>
 				</div>
 				<div id="education" class="list">
 					<h3>Education</h3>
 					<p>
-						Belarus State Economic University :)
+						Belarus State Economic University
 					</p>
 				</div>
 				<div id="projects" class="list">
@@ -90,16 +91,18 @@
 							</a>
 						</p>
 					</div>
-					<p>A complicated solutions for a simple task :)</p>
+					<p class="solution">Complicated solutions for a simple task :)</p>
 					<pre class="code">
 						<code>
+
   function getDecimal(n) {
-   return +n.toString().replace(/^(.?\d+)/g, 0);
+	return +n.toString().replace(/^(.?\d+)/g, 0);
   }
 
+
   function getDecimal(n){
-   if (n%1 === 0) return 0;
-   return  +('0.' + n.toString().replace(/[-]?\d+[\.\,]/g, ''))
+	if (n%1 === 0) return 0;
+	return  +('0.' + n.toString().replace(/[-]?\d+[\.\,]/g, ''))
   }
 
   <!-- function getDecimal(n){
@@ -116,12 +119,13 @@
 			</div>
 		</main>
 		<footer>
-			<a class="github" href="https://github.com/VitaliMay">
+			<a class="github" target="_blank" href="https://github.com/VitaliMay">
 			  <img class="icon-github footer-link" src="./assets/svg/github.svg" alt="Github Icon" width="30" height="30">
 			  <p>Visit my GitHub</p>
 			</a>
-			<p>© 2022</p>
-			<a href="https://rs.school/js/">
+			<!-- <p>© 2022</p> -->
+			<p>&copy; 2022</p>
+			<a target="_blank" href="https://rs.school/js/">
 			  <img class="footer-link" src="./assets/svg/rs_school_js.svg" alt="Rsschool Icon" width="73" height="26">
 			</a>
 		</footer>
