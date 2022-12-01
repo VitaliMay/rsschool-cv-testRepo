@@ -1,17 +1,17 @@
 # Vitali Majewski
-### Junior Front-End Developer (Entry Level)
+### Front-End Developer (Entry Level)
 
 ----
 
 ### Contact information:
-:phone: **Phone:** +375 29 6-906-306  
-:envelope: **E-mail:** mvt30@mail.ru  
+:phone: **Phone:** +375 29 6-906-306  <br>
+:envelope: **E-mail:** mvt30@mail.ru  <br>
 :octocat: **GitHub:** [VitaliMay](https://github.com/VitaliMay)
 
 ----
 
 ### About Me :dog:
-I am an excellent team worker  
+I am an excellent team worker  <br>
 
 
 ----
@@ -53,7 +53,7 @@ function getCard() {
 * :poland: Polish - Basic
 * :ukraine: Ukrainian - Basic
 
------
+<!-- -----
 - [x] #739
 - [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:
+- [ ] Add delight to the experience when all tasks are complete :tada: -->
