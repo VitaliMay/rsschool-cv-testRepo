@@ -1,10 +1,9 @@
-https://VitaliMay.github.io/testRepo/cvTest
 
+### Markdown
 
-```javascript
-function disemvowel(str) {
-    return str.replace(/[^aeiou]/gi,'').length;
-  }
+https://VitaliMay.github.io/testRepo/cv
 
-```
+----
+### HTML - CSS
 
+https://VitaliMay.github.io/testRepo/indexTest.html
